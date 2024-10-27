@@ -1,4 +1,4 @@
-package com.javaweb.api.admin;
+package com.javaweb.api;
 
 import com.javaweb.model.dto.AssignmentDTO;
 import com.javaweb.model.dto.BuildingDTO;

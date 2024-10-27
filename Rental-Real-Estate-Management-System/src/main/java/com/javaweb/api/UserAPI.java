@@ -1,4 +1,4 @@
-package com.javaweb.api.admin;
+package com.javaweb.api;
 
 import com.javaweb.constant.SystemConstant;
 import com.javaweb.exception.MyException;

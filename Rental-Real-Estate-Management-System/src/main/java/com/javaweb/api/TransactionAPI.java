@@ -1,4 +1,4 @@
-package com.javaweb.api.admin;
+package com.javaweb.api;
 
 import com.javaweb.model.request.TransactionCreateRequest;
 import com.javaweb.model.response.ResponseDTO;
