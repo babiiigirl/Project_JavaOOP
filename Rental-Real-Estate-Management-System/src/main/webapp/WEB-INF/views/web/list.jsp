@@ -118,7 +118,8 @@
                                 <a href="">Căn hộ chung cư tại Sky Park Residence</a>
                             </div>
                             <span class="product1-conntent-title">Dự án Sky Park Residence số 3 Tôn Thất Thuyết đang
-                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2018. Khách
+                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2024
+                                . Khách
                                     hàng có thể thăm quan và giám sát trực tiếp chất lương công trình cũng như thưởng
                                     ngoạn tầm view tuyệt đẹp ra hai công viên lớn nhất quận Cầu Giấy.</span>
                             <ul class="product1-conntent-list">
@@ -153,7 +154,7 @@
                                 <a href="">Căn hộ chung cư tại Sky Park Residence</a>
                             </div>
                             <span class="product1-conntent-title">Dự án Sky Park Residence số 3 Tôn Thất Thuyết đang
-                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2018. Khách
+                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2024. Khách
                                     hàng có thể thăm quan và giám sát trực tiếp chất lương công trình cũng như thưởng
                                     ngoạn tầm view tuyệt đẹp ra hai công viên lớn nhất quận Cầu Giấy.</span>
                             <ul class="product1-conntent-list">
@@ -188,7 +189,7 @@
                                 <a href="">Căn hộ chung cư tại Sky Park Residence</a>
                             </div>
                             <span class="product1-conntent-title">Dự án Sky Park Residence số 3 Tôn Thất Thuyết đang
-                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2018. Khách
+                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2024. Khách
                                     hàng có thể thăm quan và giám sát trực tiếp chất lương công trình cũng như thưởng
                                     ngoạn tầm view tuyệt đẹp ra hai công viên lớn nhất quận Cầu Giấy.</span>
                             <ul class="product1-conntent-list">
@@ -223,7 +224,7 @@
                                 <a href="">Căn hộ chung cư tại Sky Park Residence</a>
                             </div>
                             <span class="product1-conntent-title">Dự án Sky Park Residence số 3 Tôn Thất Thuyết đang
-                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2018. Khách
+                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2024. Khách
                                     hàng có thể thăm quan và giám sát trực tiếp chất lương công trình cũng như thưởng
                                     ngoạn tầm view tuyệt đẹp ra hai công viên lớn nhất quận Cầu Giấy.</span>
                             <ul class="product1-conntent-list">
@@ -258,7 +259,7 @@
                                 <a href="">Căn hộ chung cư tại Sky Park Residence</a>
                             </div>
                             <span class="product1-conntent-title">Dự án Sky Park Residence số 3 Tôn Thất Thuyết đang
-                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2018. Khách
+                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2024. Khách
                                     hàng có thể thăm quan và giám sát trực tiếp chất lương công trình cũng như thưởng
                                     ngoạn tầm view tuyệt đẹp ra hai công viên lớn nhất quận Cầu Giấy.</span>
                             <ul class="product1-conntent-list">
@@ -293,7 +294,7 @@
                                 <a href="">Căn hộ chung cư tại Sky Park Residence</a>
                             </div>
                             <span class="product1-conntent-title">Dự án Sky Park Residence số 3 Tôn Thất Thuyết đang
-                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2018. Khách
+                                    trong quá trình hoàn thiện để đáp ứng tiến độ bàn giao nhà trong năm 2024. Khách
                                     hàng có thể thăm quan và giám sát trực tiếp chất lương công trình cũng như thưởng
                                     ngoạn tầm view tuyệt đẹp ra hai công viên lớn nhất quận Cầu Giấy.</span>
                             <ul class="product1-conntent-list">
@@ -357,7 +358,7 @@
                                     </div>
                                     <div class="content-center-footer">
                                         <p class="mb-1 mt-3">Trụ sở chính</p>
-                                        <p class="desc-footer">Số 46 Man Thiện, TP Thủ Đức, TP HCM</p>
+                                        <p class="desc-footer">Km10, Đ. Nguyễn Trãi, Q.Hà Đông, TP.Hà Nội</p>
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-4 text-center">
@@ -375,7 +376,7 @@
                                     </div>
                                     <div class="content-center-footer">
                                         <p class="mb-1 mt-3">Email</p>
-                                        <p class="desc-footer"><a class="a-text" href="#">vsh@gmail.com</a>
+                                        <p class="desc-footer"><a class="a-text" href="#">lonnuocngot3010@gmail.com</a>
                                         </p>
                                     </div>
                                 </div>
@@ -432,8 +433,8 @@
                 </div>
             </div>
             <div class="bottom-footer-2">
-                <div class="text-center desc-bottom-footer-2">@ Bản quyền thuộc về Happy Team |
-                    Cung cấp bởi <a class="a-text group-name" href="#">HappyTeam</a></div>
+                <div class="text-center desc-bottom-footer-2">@ Bản quyền thuộc về Lon Nước Ngọt |
+                    Cung cấp bởi <a class="a-text group-name" href="#">LonNuocNgot</a></div>
             </div>
         </footer>
     </div>

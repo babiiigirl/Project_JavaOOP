@@ -182,13 +182,13 @@
                         <div class="content-page rte minpage">
                             <p>Tòa nhà cao nhất Việt Nam The Sky Land&nbsp; 90&nbsp;của Công ty cổ phần công
                                 nghệ&nbsp;Sapo chính thức cho khách hàng đặt giữ chỗ chọn mua đợt đầu vào ngày
-                                Event&nbsp;<b>1/7/2016</b>. Sự kiện diễn ra lúc 18h tại nhà mẫu Sapohomes Central
+                                Event&nbsp;<b>19/11/2024</b>. Sự kiện diễn ra lúc 18h tại nhà mẫu Sapohomes Central
                                 Park, số 208 đường Nguyễn Chí Thanh, TP Hà Nội&nbsp;.– Đợt đầu đặt chỗ tầng 36 và 37
                                 chỉ dành cho người nước ngoài. Các tầng còn lại tất cả các khách hàng chọn căn đặt
-                                cọc từ ngày&nbsp;<b>19/7/2016</b>.</p>
+                                cọc từ ngày&nbsp;<b>05/11/2024</b>.</p>
                             <p><b>MỞ BÁN:</b></p>
-                            <p>+ Ngày công bố giá bán và cho khách đặt cọc từ:&nbsp;<b>19/7/2016</b></p>
-                            <p>+ Ngày tổ chức event mở bán:&nbsp;<b>25/7/2016</b></p>
+                            <p>+ Ngày công bố giá bán và cho khách đặt cọc từ:&nbsp;<b>05/11/2024</b></p>
+                            <p>+ Ngày tổ chức event mở bán:&nbsp;<b>10/11/2024</b></p>
                             <p>– Tòa nhà The Sky Land&nbsp; 90 tầng sở hữu những căn hộ đẳng cấp bậc nhất Việt Nam.
                                 Được nhiều các nhà đầu tư trong và ngoài nước đặc biệt quan tâm. Khi mở bán kỳ vọng
                                 sẽ trở thành hiện tượng của thị trường bất động sản trong nhiều năm trở lại đây.</p>
@@ -248,7 +248,7 @@
                                 </div>
                                 <div class="content-center-footer">
                                     <p class="mb-1 mt-3">Trụ sở chính</p>
-                                    <p class="desc-footer">Số 46 Man Thiện, TP Thủ Đức, TP HCM</p>
+                                    <p class="desc-footer">Km10, Đ. Nguyễn Trãi, Q.Hà Đông, TP.Hà Nội</p>
                                 </div>
                             </div>
                             <div class="col-12 col-md-4 text-center">
@@ -266,7 +266,7 @@
                                 </div>
                                 <div class="content-center-footer">
                                     <p class="mb-1 mt-3">Email</p>
-                                    <p class="desc-footer"><a class="a-text" href="#">vsh@gmail.com</a>
+                                    <p class="desc-footer"><a class="a-text" href="#">lonnuocngot3010@gmail.com</a>
                                     </p>
                                 </div>
                             </div>

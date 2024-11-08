@@ -200,7 +200,7 @@
                             <display:column property="managerName" title="Tên quản lý" headerClass="center"/>
                             <display:column property="managerPhone" title="Số điện thoại" headerClass="center"/>
                             <display:column property="floorArea" title="Diện tích sàn" headerClass="center"/>
-                            <display:column property="emptyArea" title="Diện tích trống" headerClass="center"/>
+<%--                            <display:column property="emptyArea" title="Diện tích trống" headerClass="center"/>--%>
                             <display:column property="rentArea" title="Diện tích thuê" headerClass="center"/>
                             <display:column property="rentPrice" title="Giá thuê" headerClass="center"/>
                             <display:column property="brokerageFee" title="Phí môi giới" headerClass="center"/>

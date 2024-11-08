@@ -30,13 +30,13 @@
                         <div class="col-12 col-md-6">
                             <h2 class="title-lienhe"><strong>Công ty cổ phần bất động sản SkyLand</strong></h2>
                             <div class="desc-lienhe">
-                                <p>Được thành lập vào ngày 20/08/2008 với niềm đam mê và khát vọng thành công trong lĩnh vực
+                                <p>Được thành lập vào ngày 19/12/2013 với niềm đam mê và khát vọng thành công trong lĩnh vực
                                     bất động sản. Nhờ chiến lược rõ ràng và hướng đi đúng, SkyLand đã nhanh chóng phát triển
                                     và đạt được những thành công nhất định.</p>
                                 <ul class="margin-bottom-15 link" style="list-style-type: none;">
                                     <li>
                                         <span class="block_fonticon"><i class="fa fa-map-marker icon-lienhe"></i></span>
-                                        <span class="title-li"> 46 Man Thiện, TP. Thủ Đức, TP. HCM</span>
+                                        <span class="title-li"> Km10, Đ. Nguyễn Trãi, Q.Hà Đông, TP.Hà Nội</span>
                                     </li>
                                     <li>
                                         <span class="block_fonticon"><i class="fa fa-mobile icon-lienhe"></i></span>
@@ -48,7 +48,7 @@
                                     <li>
                                         <span class="block_fonticon"><i class="fa fa-envelope icon-lienhe"></i></span>
                                         <span class="title-li">Email: <a style="color: #434a6e;"
-                                                                         href="">vsh@gmail.com</a></span>
+                                                                         href="">lonnuocngot3010@gmail.com</a></span>
                                     </li>
                                 </ul>
                             </div>
@@ -113,7 +113,7 @@
                                         </div>
                                         <div class="content-center-footer">
                                             <p class="mb-1 mt-3">Trụ sở chính</p>
-                                            <p class="desc-footer">Số 46 Man Thiện, TP Thủ Đức, TP HCM</p>
+                                            <p class="desc-footer">Km10, Đ. Nguyễn Trãi, Q.Hà Đông, TP.Hà Nội</p>
                                         </div>
                                     </div>
                                     <div class="col-12 col-md-4 text-center">
@@ -131,7 +131,7 @@
                                         </div>
                                         <div class="content-center-footer">
                                             <p class="mb-1 mt-3">Email</p>
-                                            <p class="desc-footer"><a class="a-text" href="#">vsh@gmail.com</a>
+                                            <p class="desc-footer"><a class="a-text" href="#">lonnuocngot3010@gmail.com</a>
                                             </p>
                                         </div>
                                     </div>
@@ -188,8 +188,8 @@
                     </div>
                 </div>
                 <div class="bottom-footer-2">
-                    <div class="text-center desc-bottom-footer-2">@ Bản quyền thuộc về Happy Team |
-                        Cung cấp bởi <a class="a-text group-name" href="#">HappyTeam</a></div>
+                    <div class="text-center desc-bottom-footer-2">@ Bản quyền thuộc về Lon Nước Ngọt |
+                        Cung cấp bởi <a class="a-text group-name" href="#">LonNuocNgot</a></div>
                 </div>
             </footer>
         </div>
